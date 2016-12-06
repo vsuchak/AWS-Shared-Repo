@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ControllerServletTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-10T07:30:33" hostname="LIN51004648" time="0.508">
+  <properties/>
+  <testcase name="testProcessRequest" classname="ControllerServletTest" time="0.508"/>
+  <system-out><![CDATA[[com.cg.beans.CarDTO@519277bb]
+City
+page set for destination
+/carList.jsp
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
